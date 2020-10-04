@@ -1,3 +1,4 @@
+This project was created as part of the training for creating Angular applications using Typescript
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
