@@ -6,7 +6,7 @@ import {Environment} from './interface'
 
 export const environment: Environment = {
   production: false,
-  apiKey: 'AIzaSyA5L8u9dpb1JZbSnl9uAmfDI4M7z38Jjj8'
+  apiKey: ''
 }
 
 /*
